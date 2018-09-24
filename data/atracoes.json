@@ -1,0 +1,20 @@
+[
+    {
+        "img": "/img/logo.png",
+        "nome": "Nome da Banda1",
+        "data": "data do evento",
+        "descricao": "descricao do Evento"
+    },
+    {
+        "img": "img/logo.png",
+        "nome": "Nome da Banda2",
+        "data": "data do evento",
+        "descricao": "descricao do Evento"
+    },
+    {
+        "img": "img/logo.png",
+        "nome": "Nome da Banda3",
+        "data": "data do evento",
+        "descricao": "descricao do Evento"
+    }
+]
